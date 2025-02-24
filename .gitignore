@@ -1,0 +1,13 @@
+# Ignore object files
+*.o
+
+# Ignore executable files
+*.out
+*.exe
+
+# Ignore backup files created by editors
+*~
+
+# Ignore the build directory if it exists
+/build/
+
